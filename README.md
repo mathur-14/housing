@@ -1,0 +1,1 @@
+We will load data, plot data, perform simple mathematical manipulations, and fit a simple linear regression model.  The lab use the Ames Housing dataset which is a commonly used machine learning data set for illustrating basic concepts.  
